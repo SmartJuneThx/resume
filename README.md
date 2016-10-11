@@ -1,6 +1,12 @@
 # 一个简洁优雅的 XeLaTeX 简历模板
 
+## 简历效果
+
+[中文简历](http://files.cnblogs.com/files/smartjune/smartjune-zh.pdf)
+
 Hit branch [master](https://github.com/billryan/resume/tree/master) if you wanna an English résumé.
+
+## Motivation
 
 每年的9月10月是求职的高峰季，除了简历上充实的干货之外，一份美美的简历自然是能助你一臂之力的啦。
 
@@ -27,16 +33,6 @@ Hit branch [master](https://github.com/billryan/resume/tree/master) if you wanna
 - 完善的 Unicode 字体支持，因为用的是 XeLaTeX 嘛
 - 完美的简体中文支持，默认使用 adobefonts 的四套简体中文字型，其他字型可自行添加。
 - 支持图标字体 FontAwesome 4.6.3
-
-### 样例输出
-
-![English](http://7xojrx.com1.z0.glb.clouddn.com/docs/resume.png)
-![English with photo](http://7xojrx.com1.z0.glb.clouddn.com/docs/resume_photo.png)
-![简体中文](http://7xojrx.com1.z0.glb.clouddn.com/docs/resume-zh_CN.png)
-
-- 英文 PDF - http://7xojrx.com1.z0.glb.clouddn.com/docs/resume.pdf
-- 加入照片的英文 PDF - http://7xojrx.com1.z0.glb.clouddn.com/docs/resume_photo.pdf
-- 简体中文 PDF - http://7xojrx.com1.z0.glb.clouddn.com/docs/resume-zh_CN.pdf
 
 ## 使用方法
 
